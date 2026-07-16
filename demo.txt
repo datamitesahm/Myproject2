@@ -3,3 +3,5 @@ code line 2
 
 New Code Line
 check conflict
+
+Code line 6
