@@ -2,4 +2,4 @@ code line 1
 code line 2
 
 New Code Line
-code line 4
+check conflict
